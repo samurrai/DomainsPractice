@@ -1,0 +1,15 @@
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\bin\Debug\DomainsPractice.exe.config
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\bin\Debug\DomainsPractice.exe
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\bin\Debug\DomainsPractice.pdb
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\MainWindow.g.cs
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\App.g.cs
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice_MarkupCompile.cache
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice_MarkupCompile.lref
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\MainWindow.baml
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice.g.resources
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice.Properties.Resources.resources
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice.csproj.GenerateResource.cache
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice.exe
+C:\Users\ШадикьянР\source\repos\DomainsPractice\DomainsPractice\obj\Debug\DomainsPractice.pdb
